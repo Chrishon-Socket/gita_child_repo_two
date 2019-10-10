@@ -5,3 +5,7 @@ function doSomething(a, b) {
 function anotherFunction(x, y) {
     return x * y;
 }
+
+function subtract(x, y) {
+    return x - y;
+}
